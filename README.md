@@ -4,4 +4,5 @@
 
 - 🔭 I’m currently working as CMO of GAGODA
 - 🌱 I’m currently learning JavaScript (Vue, React) and a little bit about Blockchain, Smart Contract
+- 🎲 I have experience about WordPress Frontend
 - 📫 How to reach me: daonq@msn.com / me@daonq.dev
