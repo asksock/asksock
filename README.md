@@ -16,6 +16,6 @@
 ![PHP](https://img.shields.io/badge/PHP-F7F7F7?style=flat-square&logo=php&logoColor=00A7D0)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![VS Code](https://img.shields.io/badge/VisualStudio-2C2B30?style=flastic&logo=VisualStudioCode&logoColor=007ACC)
+![VS Code](https://img.shields.io/badge/VisualStudio-f7f7f7?style=flastic&logo=VisualStudioCode&logoColor=007ACC)
 ![Postman](https://img.shields.io/badge/Postman-f7f7f7?style=flastic&logo=Postman&logoColor=FF6C37)
 ![Docker](https://img.shields.io/badge/Docker-f7f7f7?style=flastic&logo=Docker&logoColor=1d63ed)
